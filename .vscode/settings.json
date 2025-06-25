@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "gamecontenttest.h": "c",
+        "alice.h": "c",
+        "testing.h": "c",
+        "alicetest.h": "c",
+        "gamecontent.h": "c"
+    }
+}

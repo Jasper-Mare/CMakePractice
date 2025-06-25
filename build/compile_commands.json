@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build",
+  "command": "/usr/bin/cc    -o CMakeFiles/Game.dir/Main.c.o -c /home/jasper/Documents/repos/cmakePractice/Main.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/Main.c",
+  "output": "CMakeFiles/Game.dir/Main.c.o"
+},
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build/test",
+  "command": "/usr/bin/cc    -o CMakeFiles/UnitTest.dir/characters/aliceTest.c.o -c /home/jasper/Documents/repos/cmakePractice/test/characters/aliceTest.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/test/characters/aliceTest.c",
+  "output": "test/CMakeFiles/UnitTest.dir/characters/aliceTest.c.o"
+},
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build/test",
+  "command": "/usr/bin/cc    -o CMakeFiles/UnitTest.dir/gameContentTest.c.o -c /home/jasper/Documents/repos/cmakePractice/test/gameContentTest.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/test/gameContentTest.c",
+  "output": "test/CMakeFiles/UnitTest.dir/gameContentTest.c.o"
+},
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build/test",
+  "command": "/usr/bin/cc    -o CMakeFiles/UnitTest.dir/unitTests.c.o -c /home/jasper/Documents/repos/cmakePractice/test/unitTests.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/test/unitTests.c",
+  "output": "test/CMakeFiles/UnitTest.dir/unitTests.c.o"
+},
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build/src",
+  "command": "/usr/bin/cc    -o CMakeFiles/Source.dir/characters/alice.c.o -c /home/jasper/Documents/repos/cmakePractice/src/characters/alice.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/src/characters/alice.c",
+  "output": "src/CMakeFiles/Source.dir/characters/alice.c.o"
+},
+{
+  "directory": "/home/jasper/Documents/repos/cmakePractice/build/src",
+  "command": "/usr/bin/cc    -o CMakeFiles/Source.dir/gameContent.c.o -c /home/jasper/Documents/repos/cmakePractice/src/gameContent.c",
+  "file": "/home/jasper/Documents/repos/cmakePractice/src/gameContent.c",
+  "output": "src/CMakeFiles/Source.dir/gameContent.c.o"
+}
+]

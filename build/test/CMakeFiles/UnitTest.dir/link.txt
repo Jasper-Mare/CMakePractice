@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/UnitTest.dir/characters/aliceTest.c.o CMakeFiles/UnitTest.dir/gameContentTest.c.o CMakeFiles/UnitTest.dir/unitTests.c.o -o UnitTest  ../src/libSource.a 

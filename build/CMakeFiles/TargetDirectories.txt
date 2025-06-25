@@ -1,0 +1,12 @@
+/home/jasper/Documents/repos/cmakePractice/build/CMakeFiles/Game.dir
+/home/jasper/Documents/repos/cmakePractice/build/CMakeFiles/test.dir
+/home/jasper/Documents/repos/cmakePractice/build/CMakeFiles/edit_cache.dir
+/home/jasper/Documents/repos/cmakePractice/build/CMakeFiles/rebuild_cache.dir
+/home/jasper/Documents/repos/cmakePractice/build/test/CMakeFiles/UnitTest.dir
+/home/jasper/Documents/repos/cmakePractice/build/test/CMakeFiles/test.dir
+/home/jasper/Documents/repos/cmakePractice/build/test/CMakeFiles/edit_cache.dir
+/home/jasper/Documents/repos/cmakePractice/build/test/CMakeFiles/rebuild_cache.dir
+/home/jasper/Documents/repos/cmakePractice/build/src/CMakeFiles/Source.dir
+/home/jasper/Documents/repos/cmakePractice/build/src/CMakeFiles/test.dir
+/home/jasper/Documents/repos/cmakePractice/build/src/CMakeFiles/edit_cache.dir
+/home/jasper/Documents/repos/cmakePractice/build/src/CMakeFiles/rebuild_cache.dir

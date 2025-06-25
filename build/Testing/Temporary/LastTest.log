@@ -1,0 +1,19 @@
+Start testing: Jun 26 00:26 BST
+----------------------------------------------------------
+1/1 Testing: UnitTests
+1/1 Test: UnitTests
+Command: "/home/jasper/Documents/repos/cmakePractice/build/test/UnitTest"
+Directory: /home/jasper/Documents/repos/cmakePractice/build/test
+"UnitTests" start time: Jun 26 00:26 BST
+Output:
+----------------------------------------------------------
+running game: 1 + 3 4Alice says: 1
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"UnitTests" end time: Jun 26 00:26 BST
+"UnitTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 26 00:26 BST

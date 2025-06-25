@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSource.a CMakeFiles/Source.dir/characters/alice.c.o CMakeFiles/Source.dir/gameContent.c.o
+/usr/bin/ranlib libSource.a
