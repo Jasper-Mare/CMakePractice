@@ -4,8 +4,12 @@
 
 # Commands:
 Run these from the root of the repo
+## initialise
+`cd build; cmake ../; cd ..`
 ## build
 `cmake --build build`
+## clean
+`cmake --build build --target clean`
 ## test:
 `cd build; ctest; cd ..`
 ## run:
