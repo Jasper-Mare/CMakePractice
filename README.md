@@ -17,3 +17,5 @@ Run these from the root of the repo
 
 # TODO:
 - make it so includes can be done using file paths relative to the root of the project
+- clone contents of `assets` with the build
+- output executable and assets in a folder together
